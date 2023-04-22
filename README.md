@@ -1,7 +1,7 @@
 ### ABC Always Be Coding!!! :)
 
 ## My name is Cory I am a:
-- Passionate Software Developer
+- Passionate Full-Stack Software Developer
 - Graphic Designer
 - Accountant
 - Entrepreneur (Portacade)
@@ -16,6 +16,9 @@
 - 🤔 I’m looking for help with Docker
 - 💬 Ask me about anything you like!
 - 📫 How to reach me: corybaker24@gmail.com or feel free to shoot me a message here or on my LinkedIn profile from the link
+
+# Projects
+[CRUZ](https://crooz-web-service.onrender.com)
 
 ## Reach Out!
 [![Linkedin Badge](https://img.shields.io/badge/CoryBaker-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cory-baker-9738ba2a/)](https://www.linkedin.com/in/cory-baker-9738ba2a/)
