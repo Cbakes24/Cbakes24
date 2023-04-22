@@ -18,9 +18,9 @@
 - 📫 How to reach me: corybaker24@gmail.com or feel free to shoot me a message here or on my LinkedIn profile from the link
 
 # Projects
-[CRUZ](https://crooz-web-service.onrender.com) FUV Renting and Hosting website
-[Retappd](https://thunder-shark.onrender.com/) A beverage social media page to share and discuss new beverages! (mostly beer! XD)
-[Jam Packed Sound Cloud](https://soundcloud-web-server.onrender.com) A social music platform to listen, share, and discuss music new and old... Rock On!
+- [CRUZ](https://crooz-web-service.onrender.com) [README](https://github.com/Cbakes24/Crooz_CAPSTONE_PROJECT#cruz)FUV Renting and Hosting website
+- [Retappd](https://thunder-shark.onrender.com/) [README](https://github.com/kickbessie612/thunder-sharks-untappd#readme) A beverage social media page to share and discuss new beverages! (mostly beer! XD)
+- [Jam Packed Sound Cloud](https://soundcloud-web-server.onrender.com) [README](https://github.com/Cbakes24/SoundCloud-Project#welcome-the-the-jam-packed-sound-cloud) A social music platform to listen, share, and discuss music new and old... Rock On!
 
 ## Reach Out!
 [![Linkedin Badge](https://img.shields.io/badge/CoryBaker-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cory-baker-9738ba2a/)](https://www.linkedin.com/in/cory-baker-9738ba2a/)
