@@ -17,9 +17,13 @@
 - 💬 Ask me about anything you like!
 - 📫 How to reach me: corybaker24@gmail.com or feel free to shoot me a message here or on my LinkedIn profile from the link
 
+## Reach Out!
+[![Linkedin Badge](https://img.shields.io/badge/-Cory-Baker-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cory-baker-9738ba2a/)](https://www.linkedin.com/in/cory-baker-9738ba2a/)
+[![Instagram Badge](https://img.shields.io/badge/-kanna6501-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/cbakes24/)](https://www.instagram.com/cbakes24/)
+[![Gmail Badge](https://img.shields.io/badge/-corybaker24@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:corybaker24@gmail.com)](mailto:corybaker24@gmail.com)
+
 
 ## ⚡ Technologies
-
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
