@@ -18,7 +18,7 @@
 - 📫 How to reach me: corybaker24@gmail.com or feel free to shoot me a message here or on my LinkedIn profile from the link
 
 ## Reach Out!
-[![Linkedin Badge](https://img.shields.io/badge/Cory-Baker-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cory-baker-9738ba2a/)](https://www.linkedin.com/in/cory-baker-9738ba2a/)
+[![Linkedin Badge](https://img.shields.io/badge/CoryBaker-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cory-baker-9738ba2a/)](https://www.linkedin.com/in/cory-baker-9738ba2a/)
 [![Instagram Badge](https://img.shields.io/badge/-cbakes24-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/cbakes24/)](https://www.instagram.com/cbakes24/)
 [![Gmail Badge](https://img.shields.io/badge/-corybaker24@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:corybaker24@gmail.com)](mailto:corybaker24@gmail.com)
 
