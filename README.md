@@ -1,12 +1,21 @@
-### Hi there 👋
+### ABC Always Be Coding!!! :)
+
+## My name is Cory I am a:
+- Passionate Software Developer
+- Graphic Designer
+- Accountant
+- Entrepreneur (Portacade)
+- Daddy of 3
+- Husband
 
 
-- 🔭 I’m currently working on CRUZ web app for renting and hosting FUVs (Fun Utility Vehicles)!
+## Currently...
+- 🔭 I’m currently working on CRUZ web app for renting and hosting FUVs (Fun Utility Vehicles) in small beach communities!
 - 🌱 I’m currently learning AWS and Google Map implementation with React.js
 - 👯 I’m looking to collaborate on interview prep and peer review :)
 - 🤔 I’m looking for help with Docker
 - 💬 Ask me about anything you like!
-- 📫 How to reach me: corybaker24@gmail.com or feel free to shoot me a messa
+- 📫 How to reach me: corybaker24@gmail.com or feel free to shoot me a message here or on my LinkedIn profile from the link
 
 
 <!--
