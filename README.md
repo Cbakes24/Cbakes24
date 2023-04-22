@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on CRUZ web app for renting and hosting FUVs (Fun Utility Vehicles)!
 - 🌱 I’m currently learning AWS and Google Map implementation with React.js
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on interview prep and peer review :)
 - 🤔 I’m looking for help with Docker
 - 💬 Ask me about anything you like!
 - 📫 How to reach me: corybaker24@gmail.com or feel free to shoot me a messa
