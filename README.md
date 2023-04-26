@@ -3,6 +3,7 @@
 ## My name is Cory I am a:
 - Passionate Full-Stack Software Developer
 - Graphic Designer
+- Event Cooridinator
 - Accountant
 - Entrepreneur (Portacade)
 - Daddy of 3
