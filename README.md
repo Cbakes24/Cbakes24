@@ -12,7 +12,8 @@
 
 ## Currently...
 - 🔭 I’m currently working on CRUZ web app for renting and hosting FUVs (Fun Utility Vehicles) in small beach communities!
-- 🌱 I’m currently learning AWS and Google Map implementation with React.js, prompt engineering
+- 🌱 Google Map implementation with React.js
+- AI Familiarity and prompting
 - 💬 Ask me about anything you like!
 - 📫 How to reach me: corybaker24@gmail.com or feel free to shoot me a message here or on my LinkedIn profile from the link
 
