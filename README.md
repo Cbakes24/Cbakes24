@@ -14,7 +14,7 @@
 - 🔭 I’m currently working on CRUZ web app for renting and hosting FUVs (Fun Utility Vehicles) in small beach communities!
 - 🌱 Google Map implementation with React.js
 - AI Familiarity and prompting
-- 💬 Ask me about anything you like!
+- 💬 Ask me about anything you like and checkout out my [Portfolio Page] (https://corybakerportfolio.com/)
 - 📫 How to reach me: corybaker24@gmail.com or feel free to shoot me a message here or on my LinkedIn profile from the link
 
 # Projects
