@@ -3,16 +3,14 @@
 ## My name is Cory I am a:
 - Passionate Full-Stack Software Developer
 - Graphic Designer
-- Event Cooridinator
-- Accountant
 - Entrepreneur (Portacade)
 - Daddy of 3
 - Husband
 
 
 ## Currently...
-- 🔭 I’m currently working on CRUZ web app for renting and hosting FUVs (Fun Utility Vehicles) in small beach communities!
-- 🌱 Google Map implementation with React.js
+- 🔭 I’m currently working on CRUZ (stripe implementation) web app for renting and hosting FUVs (Fun Utility Vehicles) in small beach communities!
+- 🌱 Learning AWS Tools through the Amazon certified skill builder classes (CUrrently on S3 and Ec2)
 - AI Familiarity and prompting
 - 💬 Ask me about anything you like and checkout out my - [Portfolio Page](https://corybakerportfolio.com/)
 - 📫 How to reach me: corybaker24@gmail.com or feel free to shoot me a message here or on my LinkedIn profile from the link
