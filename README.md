@@ -1,7 +1,7 @@
 ### ABC Always Be Coding!!! :)
 
 ## My name is Cory I am a:
-- Passionate lving human and also a Full-Stack Software Developer :)
+- Passionate living human and also a Full-Stack Software Developer :)
 - Graphic Designer
 - Entrepreneur (Portacade, [Seaside Cinema](https://www.seasidecinemasd.com/) )
 - Daddy of 3
