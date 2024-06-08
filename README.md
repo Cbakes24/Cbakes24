@@ -9,9 +9,9 @@
 
 
 ## Currently...
-- 🔭 I’m currently working on CRUZ (stripe implementation) web app for renting and hosting FUVs (Fun Utility Vehicles) in small beach communities!
+- 🔭 I’m currently working on some personal projects. One being some tests on Roulette strategies (The Holy Grail)! I was watching some youtube videos [youtube videos] (https://www.youtube.com/watch?v=Nc5lIp6Ys4o) about this strategy that involves bettin the 1st and 2nd 12 number along with setting profit goals and controlling how much you bet based on a combination of winning, losing, and hitting the proft goals. So far I;ve learned... don't gamble when the House has the odds lol. 
 - 🌱 Learning AWS Tools through the Amazon certified skill builder classes (CUrrently on S3 and Ec2)
-- AI Familiarity and prompting
+- Working and learning with Next Js at my current job position.
 - 💬 Ask me about anything you like and checkout out my - [Portfolio Page](https://corybakerportfolio.com/)
 - 📫 How to reach me: corybaker24@gmail.com or feel free to shoot me a message here or on my LinkedIn profile from the link
 
@@ -30,6 +30,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![React](https://img.shields.io/badge/-Next-black?style=flat-square&logo=next)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
