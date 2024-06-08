@@ -3,7 +3,7 @@
 ## My name is Cory I am a:
 - Passionate Full-Stack Software Developer
 - Graphic Designer
-- Entrepreneur (Portacade)
+- Entrepreneur (Portacade, Seaside Cinemas) 
 - Daddy of 3
 - Husband
 
