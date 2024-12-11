@@ -9,6 +9,7 @@
 
 
 ## Currently...
+- I have working with Playwright (an open-source end-to-end testing framework) for the past month and diving into the worl of Quality Assurance and test automation for creating reliable code. Companies should be looking to spend less time testing and worrying about what could break their website. Leave that to me!
 - 🔭 I’m currently working on some personal projects. One being some tests on Roulette strategies (The Holy Grail)! I was watching some youtube videos [youtube videos](https://www.youtube.com/watch?v=Nc5lIp6Ys4o) about this strategy that involves bettin the 1st and 2nd 12 number along with setting profit goals and controlling how much you bet based on a combination of winning, losing, and hitting the proft goals. So far I;ve learned... don't gamble when the House has the odds lol. 
 - 🌱 Learning AWS Tools through the Amazon certified skill builder classes (CUrrently on S3 and Ec2)
 - Working and learning with Next Js at my current job position.
