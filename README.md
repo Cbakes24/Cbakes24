@@ -9,6 +9,7 @@
 
 
 ## Currently...
+- Finally doing a full revamping of my own company's website. Check out seasidecinemas.com whenever you have some time!
 - Building app using React Native, Expo, and using supabase + drizzle for the backend and database management. It is called FLutter and it's going to be great! Basically its just a quick way to send a personal note to someone using a font in your handwriting.
   
 - I have working with Playwright (an open-source end-to-end testing framework) for the past month and diving into the worl of Quality Assurance and test automation for creating reliable code. Companies should be looking to spend less time testing and worrying about what could break their website. Leave that to me!
